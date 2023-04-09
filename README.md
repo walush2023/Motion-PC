@@ -5,9 +5,12 @@ Play games and control your PC with motion sensing
 Please ensure that you use a safety rope when performing any motions or movements that involve a risk of falling.
 
 PC) Steps for usage
-1. Download "Motion_PC_vX.X.exe" and download APP "Motion PController" from Google Play or App Store.
-2. Open "Motion_PC_vX.X.exe" click to install ViGEm Bus for first running.
-3. It will automatic generate QRCode for "Motion PController" scanning.
+1. Download "Motion_PC_vX.X.exe" at your PC and download APP "Motion PController" from Google Play or App Store.
+https://github.com/walush2023/Motion-PC/releases
+
+2. Open "Motion_PC_vX.X.exe" and please allow Windows Defender to run it during the first run.
+3. Click to install ViGEm Bus if you have not installed it before.
+4. It will automatic generate QRCode for "Motion PController" scanning.
 
 Phone) Steps for usage
 1. Make sure your Windows PC has installed latest version of the Motion PC.
